@@ -2,7 +2,9 @@
 
 Like the steam engine or electricity in the past, AI and Robotics are transforming our world, our society and our industry. Artificial Intelligence is changing the way we manage and we interact not only with digital data, but also with the real world. Robots are becoming everyday more reliable, flexible and pervasive in our life. Growth in computing power, availability of data and progress in algorithms have turned AI and Robotics into the most strategic technologies of the 21st century.
 
-📧 Contact me at [info@giacomodandria.com](mailto:info@giacomodandria.com)
+🔴 Contact me at [info@giacomodandria.com](mailto:info@giacomodandria.com)
+<br>
+🔴 My full curriculum is available on [curriculum.giacomodandria.com](curriculum.giacomodandria.com)
 
 <br>
 
