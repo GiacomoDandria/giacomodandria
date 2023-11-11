@@ -2,10 +2,13 @@
 
 In our contemporary world, the transformative forces of Artificial Intelligence and Robotics mirror the revolutionary impact of historical innovations like the steam engine or electricity. In this rapidly evolving technological paradigm, AI is reshaping how we not only manage digital data but also interact with the tangible world around us. Concurrently, robots are evolving into increasingly reliable, flexible, and integral components of our daily lives. Recognizing the strategic significance of AI and Robotics, my field of study equips me with a multifaceted skill set, positioning me to harness the power of the transformation of information into intelligent actions.
 
-🔴 Contact me at [info@giacomodandria.com](mailto:info@giacomodandria.com)
+🔴 Contact me at [giacomodandria@gmail.com](mailto:giacomodandria@gmail.com)
 <br>
-🔴 My full curriculum is available on [curriculum.giacomodandria.com](curriculum.giacomodandria.com)
+🔴 My full curriculum is available on [my linkedin profile](https://www.linkedin.com/in/giacomodandria/)
 
+
+<!--
+[curriculum.giacomodandria.com](curriculum.giacomodandria.com)
 <br>
 
 <body>
@@ -37,3 +40,4 @@ In our contemporary world, the transformative forces of Artificial Intelligence 
         </tr>
     </table>
 </body>
+-->
