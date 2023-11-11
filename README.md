@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Giacomo!
 
-Like the steam engine or electricity in the past, AI and Robotics are transforming our world, our society and our industry. Artificial Intelligence is changing the way we manage and we interact not only with digital data, but also with the real world. Robots are becoming everyday more reliable, flexible and pervasive in our life. Growth in computing power, availability of data and progress in algorithms have turned AI and Robotics into the most strategic technologies of the 21st century.
+In our contemporary world, the transformative forces of Artificial Intelligence and Robotics mirror the revolutionary impact of historical innovations like the steam engine or electricity. In this rapidly evolving technological paradigm, AI is reshaping how we not only manage digital data but also interact with the tangible world around us. Concurrently, robots are evolving into increasingly reliable, flexible, and integral components of our daily lives. Recognizing the strategic significance of AI and Robotics, my field of study equips me with a multifaceted skill set, positioning me to harness the power of the transformation of information into intelligent actions.
 
 🔴 Contact me at [info@giacomodandria.com](mailto:info@giacomodandria.com)
 <br>
